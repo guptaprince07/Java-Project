@@ -1,0 +1,15 @@
+Simran Kaur
+simran.kaur@example.com
++91 99887 76655
+
+Fresher with strong fundamentals. Completed final year projects in web development.
+
+SKILLS
+HTML, CSS, JavaScript, React, Java, SQL, Git, Bootstrap, Communication
+
+EDUCATION
+BCA, Punjabi University Patiala, 2022 - 2025
+
+PROJECTS
+- Online bookstore using Java and MySQL
+- Portfolio website using React

@@ -1,0 +1,14 @@
+Rohan Mehta
+rohan.mehta@example.com | +91 91234 56789
+
+SKILLS
+Java, Spring, Spring Boot, Microservices, REST API, PostgreSQL, MongoDB, Kafka, Docker, Kubernetes, AWS, CI/CD, Git, System Design, Multithreading
+
+EXPERIENCE
+Senior Software Engineer, CloudScale (Jan 2018 - Present)
+- Led a team of 5 building event-driven microservices on AWS
+Software Engineer, FinServe (Jul 2015 - Dec 2017)
+
+EDUCATION
+M.Tech in Software Engineering, IIT Ropar
+B.E. in Computer Engineering, Thapar Institute

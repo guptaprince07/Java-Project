@@ -1,0 +1,7 @@
+Title: Java Backend Developer
+Required Skills: Java, Spring Boot, REST API, SQL, Git
+Preferred Skills: Docker, Microservices, Kubernetes, AWS
+Minimum Experience: 3 years
+Minimum Education: Bachelor's
+
+We are looking for a backend developer to design and maintain scalable services.

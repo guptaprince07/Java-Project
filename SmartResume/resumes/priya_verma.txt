@@ -1,0 +1,13 @@
+Priya Verma
+priya.verma@example.com
+9876501234
+
+SKILLS: Python, Pandas, NumPy, Scikit-learn, SQL, Machine Learning, Data Analysis, Tableau, Statistics
+
+EXPERIENCE
+Data Analyst, InsightWorks (2022 - 2024)
+Junior Analyst, DataBridge (2020 - 2022)
+
+EDUCATION
+M.Sc in Statistics, Delhi University
+B.Sc in Mathematics, Delhi University

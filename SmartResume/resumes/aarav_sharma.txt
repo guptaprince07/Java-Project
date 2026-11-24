@@ -1,0 +1,16 @@
+Aarav Sharma
+Email: aarav.sharma@example.com | Phone: +91 98765 43210
+
+SUMMARY
+Backend developer with 4 years of experience building REST APIs and microservices.
+
+SKILLS
+Java, Spring Boot, Hibernate, MySQL, REST API, Git, Docker, Maven, JUnit, Agile
+
+EXPERIENCE
+Software Engineer, TechNova Pvt Ltd (Jun 2021 - Present)
+- Built microservices using Spring Boot and MySQL
+- Containerised services with Docker and automated builds with Jenkins
+
+EDUCATION
+B.Tech in Computer Science, Punjab Technical University, 2017 - 2021

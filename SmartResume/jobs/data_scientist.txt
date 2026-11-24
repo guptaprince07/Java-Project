@@ -1,0 +1,10 @@
+Title: Data Scientist
+Required Skills:
+- Python
+- Machine Learning
+- Pandas
+- SQL
+- Statistics
+Preferred Skills: TensorFlow, PyTorch, Tableau, Apache Spark
+Minimum Experience: 2 years
+Minimum Education: Master's
